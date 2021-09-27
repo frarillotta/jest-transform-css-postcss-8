@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dferber90/jest-transform-css.git"
+    "url": "git+https://github.com/frarillotta/jest-transform-css-postcss-8.git"
   },
   "devDependencies": {
     "postcss": "^8.3.8"
@@ -27,5 +27,12 @@
     "postcss-runner",
     "jest",
     "css"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/frarillotta/jest-transform-css-postcss-8/issues"
+  },
+  "homepage": "https://github.com/frarillotta/jest-transform-css-postcss-8#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
