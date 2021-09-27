@@ -1,4 +1,6 @@
-# jest-transform-css
+# jest-transform-css-postcss-8
+
+[this is a fork of https://github.com/frarillotta/jest-transform-css to support postcss8]
 
 A Jest transformer which enables importing CSS into Jest's `jsdom`.
 
